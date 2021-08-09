@@ -1,4 +1,4 @@
-<img src="Amarelo Verde e Azul Futurista Processo de Organização Linha do Tempo Infográfico.png">
+<img src="Amarelo Verde e Azul Futurista Processo de Organização Linha do Tempo Infográfico.png" height="300px">
 <!--
 **amonradev/amonradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
