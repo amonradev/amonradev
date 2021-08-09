@@ -1,5 +1,4 @@
-<img src="Preto e Rosa Moderno Comida Bebida Logotipo.gif" style="width: 10px; height: 120px">
-
+<img src="Preto e Rosa Moderno Comida Bebida Logotipo.gif">
 <!--
 **amonradev/amonradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
