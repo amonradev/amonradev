@@ -1,4 +1,4 @@
-<img src="AMON-RÁ(1).png">
+<img src="Amarelo Verde e Azul Futurista Processo de Organização Linha do Tempo Infográfico.png">
 <!--
 **amonradev/amonradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
