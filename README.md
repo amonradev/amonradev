@@ -6,6 +6,7 @@
 <h3>🏄‍♂️ Além da paixão por tecnologia também amo a natureza, pratico surf e curto minha familia!</h3>
 <h3>📫  Fale comigo no meu Email: amonracardoso@gmail.com</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amonradev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amonradev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amonradev&theme=tokyonight&custom_title=Status)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amonradev&layout=default&theme=tokyonight&custom_title=Linguagens)](https://github.com/anuraghazra/github-readme-stats)
+
