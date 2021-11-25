@@ -13,5 +13,5 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
 
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra
 
