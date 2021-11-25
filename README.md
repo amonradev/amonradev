@@ -14,6 +14,6 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amonradev&theme=blue-green"></img>
-<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green></img>
+<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"></img>
 
 
