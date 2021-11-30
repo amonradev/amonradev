@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amonradev&theme=tokyonight&custom_title=Status&count_private=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amonradev&layout=default&theme=tokyonight&custom_title=Linguagens)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amonradev&layout=default&theme=tokyonight&count_private=true&custom_title=Linguagens)](https://github.com/anuraghazra/github-readme-stats)
