@@ -1,8 +1,8 @@
-<h1>Hi, my name is Amon Rá and i'm a software developer 😄</h1>
+<h1>Hi, my name is Amon Rá and i'm a front-end developer 😄</h1>
 
 <h3>🗺️ I'm from Florianópolis, Santa Catarina</h3>
-<h3>💻 I'm currently a Full Stack Developer</h3>
-<h3>📱 I'm studying React, Typescript, Node and PHP</h3>
+<h3>💻 I'm currently a Front-end Developer</h3>
+<h3>📱 I'm working & studying with Javascript/Typescript, React, PHP, Node, HTML/CSS</h3>
 <h3>🏄‍♂️ Besides the passion for technology I also love nature, I surf and enjoy my family!</h3>
 
 <br><br>
