@@ -14,6 +14,6 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?user=amonradev&username=amonradev&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?user=amonradev&username=amonradev&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?user=amonradev&username=Amon&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?user=amonradev&username=Amon&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
